@@ -89,3 +89,4 @@ For Windows:
 
 library.exe
 # Sample Output
+![output](./OUT.jpeg).
